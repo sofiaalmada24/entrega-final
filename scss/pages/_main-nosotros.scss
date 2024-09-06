@@ -4,7 +4,8 @@ main {
 
         .carousel {
             &-item {
-                @include flex-center;
+                justify-content: center;
+                align-items: center;
                 height: 500px;
                 width: 100%;
 

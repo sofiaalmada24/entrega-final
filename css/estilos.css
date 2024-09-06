@@ -76,7 +76,6 @@ main .nosotros {
   margin: 50px;
 }
 main .nosotros .carousel-item {
-  display: flex;
   justify-content: center;
   align-items: center;
   height: 500px;
